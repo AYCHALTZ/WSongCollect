@@ -33,9 +33,7 @@ require (
 	github.com/pressly/goose v2.6.0+incompatible
 	github.com/sirupsen/logrus v1.5.0
 	github.com/stretchr/testify v1.4.0 // indirect
-	golang.org/x/net v0.0.0-20200202094626-16171245cfb2 // indirect
-	golang.org/x/sys v0.0.0-20200202164722-d101bd2416d5 // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/text v0.3.8 // indirect
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/djherbis/atime.v1 v1.0.0 // indirect
